@@ -1,3 +1,5 @@
+# General
+
 * Synchronous machines are principally used as alternating current (AC) generators. They supply the electric power used by all sectors of modern societies: industrial, commercial, agricultural, and domestic. 
 * Synchronous generators usually operate together (or in parallel), forming a large power system supplying electrical energy to the loads or consumers. 
 * Synchronous generators are built in large units, their rating ranging from tens to hundreds of megawatts. 
