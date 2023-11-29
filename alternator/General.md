@@ -5,3 +5,6 @@
 * For high-speed machines, the prime movers are usually steam turbines employing fossil or nuclear energy resources. 
 * Low-speed machines are often driven by hydro-turbines that employ water power for generation. 
 * Smaller synchronous machines are sometimes used for private generation and as standby units, with diesel engines or gas turbines as prime movers. 
+<center>
+<img src="images/type1.png" width="600px" alt="Diagram showing overall app architecture" />
+</center>
