@@ -56,7 +56,7 @@ The iron core is supported by a steel housing.
 * The slots are closed by wedges and re-enforced with steel rings.
 
 <center>
-<img src="images/nonsalient1.png" width="1000px" alt="Diagram showing overall app architecture" />
+<img src="images/nonsalient1.png" width="500px" alt="Diagram showing overall app architecture" />
 </center>
 <center>
 <img src="images/nonsalient2.png" width="500px" alt="Diagram showing overall app architecture" />
