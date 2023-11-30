@@ -27,7 +27,28 @@ E<sub>2</sub>/E<sub>1</sub>=N<sub>2</sub>/N<sub>1</sub>
 
 Or the output voltage = V<sub>2</sub> = V<sub>1</sub> * N<sub>2</sub>/N<sub>1</sub>
 
+## Magnetic Force on a Current Carrying Conductor
+
+In the previous section, we examined the magnetic force on a
+conductor and the resulting EMF (Voltage) produced. If the conductor formed a closed loop, this voltage would create current in the conductor. In the diagram, the + mark on the conductor represents the tail of the current direction arrow. If current is forced through the conductor by an external potential, the reaction to the external magnetic field is increased. Any increase in coil current has a proportional increase in force against the magnetic field.
+
+The following Figure 31 demonstrates the effect of placing a loop of wire in a magnetic field.
+
+In the cross section view (Figure 32) below, when electric current is forced into the wire by an external electrical potential, side A will be thrust downwards and side B moved upwards. The loop of wire will then try to turn counter-clockwise. This basic rotational action is the principle behind all motors. It should also be noted at this point that the force created by the dc current in the coil is the principal behind dc excitation in the rotors (rotating component) of generators. Generator action will be pursued later in this module.
+
+
+
+
 Although the concept is simple, it is the basis of every transformer. From the largest power transformer to the smallest found in logic controllers, the only difference is the construction due to voltage level, KVA rating and alternating frequency.
+
+## Induced Voltage in a Conductor
+Although the previous diagram depicts a basic dc motor operation, ac motors use the same principles. Below is a series ac motor showing the current movement during the two directions of alternating current flow. Note that a constant forward output torque would be produced even with an alternating input current.
+
+The alternating current fed through carbon brushes to the centre armature is reversed every half cycle. With the current applied in such a manner, the main stationary field and the rotating field remain in the same relative direction. The term often used is the commutating action. Constant clockwise rotor direction is thereby maintained.
+
+
+
+
 
 
 
