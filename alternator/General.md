@@ -55,6 +55,13 @@ The iron core is supported by a steel housing.
 * Slots are milled in the iron and insulated copper bars are placed in the slots.
 * The slots are closed by wedges and re-enforced with steel rings.
 
+<center>
+<img src="images/nonsalient1.png" width="500px" alt="Diagram showing overall app architecture" />
+</center>
+<center>
+<img src="images/nonsalient2.png" width="500px" alt="Diagram showing overall app architecture" />
+</center>
+
 ### Salient Pole Rotor
 * The poles are bolted to the shaft
 * Each pole has a DC winding.
@@ -63,5 +70,7 @@ The iron core is supported by a steel housing.
 * A fan is installed on the shaft to assure air circulation and effective cooling
 * Low speed, large hydro-generator may have more than one hundred poles.
 * These generators are frequently mounted vertically.
-
+<center>
+<img src="images/salient1.png" width="500px" alt="Diagram showing overall app architecture" />
+</center>
   
