@@ -36,15 +36,41 @@ The following Figure 31 demonstrates the effect of placing a loop of wire in a m
 
 In the cross section view (Figure 32) below, when electric current is forced into the wire by an external electrical potential, side A will be thrust downwards and side B moved upwards. The loop of wire will then try to turn counter-clockwise. This basic rotational action is the principle behind all motors. It should also be noted at this point that the force created by the dc current in the coil is the principal behind dc excitation in the rotors (rotating component) of generators. Generator action will be pursued later in this module.
 
-
-
-
 Although the concept is simple, it is the basis of every transformer. From the largest power transformer to the smallest found in logic controllers, the only difference is the construction due to voltage level, KVA rating and alternating frequency.
 
 ## Induced Voltage in a Conductor
 Although the previous diagram depicts a basic dc motor operation, ac motors use the same principles. Below is a series ac motor showing the current movement during the two directions of alternating current flow. Note that a constant forward output torque would be produced even with an alternating input current.
 
 The alternating current fed through carbon brushes to the centre armature is reversed every half cycle. With the current applied in such a manner, the main stationary field and the rotating field remain in the same relative direction. The term often used is the commutating action. Constant clockwise rotor direction is thereby maintained.
+
+## Magnetic Force on a Current Carrying Conductor
+
+Up to this point, we have examined the various relationships between Voltage, Current and Magnetic Flux and the equipment that use these principles: 
+
+* __Transformer Action__
+  - Magnetic field created by a current carrying conductor and induced voltage produced by a changing magnetic field.
+
+* __Motor Action__ 
+  - Force produced by a magnetic field on a current carrying conductor.
+
+Now, we will examine the Voltage produced in a conductor by a
+rotating magnetic field. For ease of explanation, we will view it first as magnetic field is stationary and the conductor rotating.
+If the conductor is formed into a coil and rotated at constant speed (Figure 34), the resulting EMF (measured on slip rings) reverses its direction at time intervals corresponding to the coil rotation and is continuously changing its value. The result is that of a basic generator with a waveform as show in Figure 35
+
+In the previous diagram (Figure 35) note that the points ¼ cycle and ¾ cycle are those at which the rate of cutting of the flux reaches a maximum and, therefore, points of maximum induced voltage E. The minimum occurs at start and ½ cycle. The output waveform is called a sine wave or sinusoidal.
+
+In practical cases, it is usual for the wire loop to remain stationary (stator) and for the magnetic field, to be rotated through it. This allows the output stator coils to be heavier in construction as compared to the rotating field coils. The field coils would be many turns of finer wire wound on the rotating component (rotor) and fed by dc (excitation). The basic action is demonstrated below (fig 36), but the principle is a previously described.
+
+__Poles__
+
+It is important to point out that the illustrations presented have only shown one set of poles. This is purely for analysis and ease of viewing. The prime mover would have to rotate at 60 revolutions per second or 3600 rpm to produce a 60-cycle waveform. Water-driven generators at 300 rpm would of course have 12 sets of poles. It is enough to say that the number of poles only affects the required rotor speed. The general theory remains the same.
+
+ 
+
+
+
+ 
+
 
 
 
