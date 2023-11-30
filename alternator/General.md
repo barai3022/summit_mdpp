@@ -34,3 +34,17 @@ The number of poles varies between 2 – 128.
 <center>
 <img src="images/type2.png" width="600px" alt="Diagram showing overall app architecture" />
 </center>
+
+
+## Design Construction
+The winding consists of copper bars insulted with mica and epoxy resin. 
+The conductors are secured by steel wedges. 
+The iron core is supported by a steel housing.
+
+<center>
+<img src="images/design1.png" width="600px" alt="Diagram showing overall app architecture" />
+</center>
+<center>
+<img src="images/design2.png" width="600px" alt="Diagram showing overall app architecture" />
+</center>
+
