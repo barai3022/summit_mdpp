@@ -48,3 +48,20 @@ The iron core is supported by a steel housing.
 <img src="images/design2.png" width="600px" alt="Diagram showing overall app architecture" />
 </center>
 
+
+### Non Salient Pole (round rotor)
+* The round rotor is used high speed (3600 rpm) machines.
+* A forged iron core (not laminated, DC) is installed on the shaft. 
+* Slots are milled in the iron and insulated copper bars are placed in the slots.
+* The slots are closed by wedges and re-enforced with steel rings.
+
+### Salient Pole Rotor
+* The poles are bolted to the shaft
+* Each pole has a DC winding.
+* The DC winding is connected to the slip-rings(not shown)
+* A DC source supplies the winding with DC through brushes pressed into the slip ring
+* A fan is installed on the shaft to assure air circulation and effective cooling
+* Low speed, large hydro-generator may have more than one hundred poles.
+* These generators are frequently mounted vertically.
+
+  
